@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "buildTime": "2026-08-08T20:38:22.065Z",
+  "tag": "data-v2026.08.08.1",
+  "files": {
+    "items.core.json": {
+      "sha256": "f33bfc6b1f02b5ed4b5b9bc0e353ce2c9c99ae1cc099ec591abcdf9aa0e81517",
+      "bytes": 252226
+    },
+    "actions.json": {
+      "sha256": "23665cfce5ac5376fc401e9964307ce211339457a30e07f0aa7a8490bc9c80a4",
+      "bytes": 283160
+    },
+    "attribution.json": {
+      "sha256": "724964004491365f10eb5937b71eaf9a7c76da7195499882a50b51d56f64d9e7",
+      "bytes": 60955
+    }
+  },
+  "bucketSchemaHashes": {
+    "Recipe": "0361402768989d3730cced2c26767041a7b118a5bfda3db683e86637811641e5",
+    "Infobox_item": "4ac3337b677eead2ccac1e9b179df5999166ab24ab2ed41992ab192bb9bf36c2"
+  },
+  "license": "CC-BY-NC-SA-3.0",
+  "minAppVersion": "0.1.0"
+}

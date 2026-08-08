@@ -1,0 +1,12 @@
+{
+  "appName": "RS3 Pathfinder",
+  "description": "Live money-making pathways from real-time GE prices: buy vs gather vs craft, honestly clamped by buy limits and market volume.",
+  "appUrl": "./index.html",
+  "configUrl": "./appconfig.json",
+  "iconUrl": "./icon.png",
+  "defaultWidth": 440,
+  "defaultHeight": 680,
+  "minWidth": 320,
+  "minHeight": 480,
+  "permissions": ""
+}
