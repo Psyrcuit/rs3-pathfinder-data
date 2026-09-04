@@ -1,19 +1,19 @@
 {
   "schemaVersion": 5,
-  "buildTime": "2026-09-03T08:15:13.551Z",
-  "tag": "data-v2026.09.03.28",
+  "buildTime": "2026-09-04T08:11:14.134Z",
+  "tag": "data-v2026.09.04.29",
   "files": {
     "items.core.json": {
-      "sha256": "03c3e13c01730e3cdd1fd3d11e8824740ee6de387466a3184913d516afa85a3f",
-      "bytes": 261745
+      "sha256": "00556702287e29d8e797b57e72a5b19e7ee8601d56524d9baed5394362fa1adc",
+      "bytes": 261837
     },
     "actions.json": {
-      "sha256": "e5dc7378cf6b772d3de0d5746de1206f496248ffd5b1d9a10005072de586441f",
-      "bytes": 374598
+      "sha256": "3c835f94b2a721ef183199d1e91a12a9ddb131983e80f582a5a0f751251a63b4",
+      "bytes": 374658
     },
     "attribution.json": {
-      "sha256": "ec7fe704b874e83bfa06f02034db343d6e5f81ef6612d691d6113317583c6cf7",
-      "bytes": 61309
+      "sha256": "1b3702e70477bf79890a1755b306f62e6e24480cc8d9369c7482dc00b5ddb9e7",
+      "bytes": 61374
     },
     "modifiers.json": {
       "sha256": "16bf53db1af5df272fc672826ea18c31d240ec46f33b07cedcb364bdb2784bcc",
