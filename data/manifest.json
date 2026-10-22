@@ -1,15 +1,15 @@
 {
   "schemaVersion": 5,
-  "buildTime": "2026-10-20T08:49:20.041Z",
-  "tag": "data-v2026.10.20.75",
+  "buildTime": "2026-10-22T08:52:13.858Z",
+  "tag": "data-v2026.10.22.77",
   "files": {
     "items.core.json": {
-      "sha256": "5b7a4f7158b765ef5f2c7634bedcab0501c3843fc27d27128c60eb716ff7b1fa",
-      "bytes": 265725
+      "sha256": "5d16c23de54df7ebb1a071a437cceafab26078c4b91894178ec22cc62669c715",
+      "bytes": 265719
     },
     "actions.json": {
-      "sha256": "e7289e93456e40ef4fc6ed527f0718fb74b8d98e705cff2cfe0786951e22fb26",
-      "bytes": 379587
+      "sha256": "6774dfb8638a9bb1f0cf8737baab5578a88ebc93608ef9779ea5fd78576ba012",
+      "bytes": 379588
     },
     "attribution.json": {
       "sha256": "cce04ed7fa27beea520e1d3ec932f65db81c625f1d26d4c344db29109d614544",
